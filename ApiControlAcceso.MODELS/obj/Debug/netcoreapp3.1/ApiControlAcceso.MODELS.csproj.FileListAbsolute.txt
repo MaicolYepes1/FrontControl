@@ -1,0 +1,36 @@
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.deps.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.deps.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csprojAssemblyReference.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfoInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.deps.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csprojAssemblyReference.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.deps.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.AssemblyReference.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfoInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfo.cs
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.MODELS\obj\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb

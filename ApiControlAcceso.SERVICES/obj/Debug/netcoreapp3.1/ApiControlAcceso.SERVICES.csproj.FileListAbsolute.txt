@@ -1,0 +1,68 @@
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.deps.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.genruntimeconfig.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.deps.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.dev.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CopyComplete
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.deps.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.genruntimeconfig.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.deps.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.runtimeconfig.dev.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.AssemblyReference.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfoInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfo.cs
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CoreCompileInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CopyComplete
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.genruntimeconfig.cache

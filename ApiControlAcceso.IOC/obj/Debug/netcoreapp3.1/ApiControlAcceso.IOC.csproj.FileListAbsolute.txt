@@ -1,0 +1,76 @@
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.deps.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Users\Phoenix\Desktop\AS-Access Backend\ApiControlAcceso\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.genruntimeconfig.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.deps.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.dev.json
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csprojAssemblyReference.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfoInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfo.cs
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CoreCompileInputs.cache
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CopyComplete
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Control Acceso\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.deps.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+C:\Users\Phoenix\Desktop\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.genruntimeconfig.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.deps.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.runtimeconfig.dev.json
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.AssemblyReference.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfoInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.AssemblyInfo.cs
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CoreCompileInputs.cache
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.csproj.CopyComplete
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.dll
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.pdb
+D:\Control de Acceso Visitantes Backend\ApiControlAcceso.IOC\obj\Debug\netcoreapp3.1\ApiControlAcceso.IOC.genruntimeconfig.cache
