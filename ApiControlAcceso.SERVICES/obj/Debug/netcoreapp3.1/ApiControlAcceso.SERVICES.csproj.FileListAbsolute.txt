@@ -66,3 +66,7 @@ D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netc
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.dll
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.pdb
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.genruntimeconfig.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.SERVICES\obj\Debug\netcoreapp3.1\ApiControlAcceso.SERVICES.csproj.CoreCompileInputs.cache

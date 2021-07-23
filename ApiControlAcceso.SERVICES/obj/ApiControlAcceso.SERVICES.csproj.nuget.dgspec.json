@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj": {}
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj": {}
   },
   "projects": {
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj",
         "projectName": "ApiControlAcceso.INFRA",
-        "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj"
               }
             }
           }
@@ -54,31 +54,31 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             }
           },
           "imports": [
@@ -96,18 +96,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
         "projectName": "ApiControlAcceso.MODELS",
-        "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,18 +154,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj",
         "projectName": "ApiControlAcceso.SERVICES",
-        "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.SERVICES\\ApiControlAcceso.SERVICES.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.SERVICES\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -186,11 +186,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.INFRA\\ApiControlAcceso.INFRA.csproj"
               },
-              "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
-                "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj"
+              "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
+                "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj"
               }
             }
           }
@@ -211,31 +211,31 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.8, )"
             },
             "System.DirectoryServices": {
               "target": "Package",
@@ -261,7 +261,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

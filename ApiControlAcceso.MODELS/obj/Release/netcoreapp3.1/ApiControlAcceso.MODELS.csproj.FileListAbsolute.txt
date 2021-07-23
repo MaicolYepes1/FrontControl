@@ -1,0 +1,9 @@
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\bin\Release\netcoreapp3.1\ApiControlAcceso.MODELS.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\bin\Release\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\bin\Release\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.MODELS\obj\Release\netcoreapp3.1\ApiControlAcceso.MODELS.pdb

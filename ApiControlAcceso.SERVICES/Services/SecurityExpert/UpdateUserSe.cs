@@ -44,23 +44,67 @@ namespace ApiControlAcceso.SERVICES.Services.SecurityExpert
                 foreach (var item in model.InfoTarjet)
                 {
                     var resTarjet = _context.UserCardNumberGroupData.Where(c => c.CardNumber == item.CardNumber && c.UserId == model.UserInfo[0].userID).FirstOrDefault();
-                    //resTarjet.CardNumber = item.CardNumber;
-                    resTarjet.FamilyNumber = item.FamilyNumber;
-                    resTarjet.CardDisabled = item.CardDisabled;
-                    resTarjet.UserId = model.UserInfo[0].userID;
-                    _context.UserCardNumberGroupData.Update(resTarjet);
-                    _context.Entry(resTarjet).State = EntityState.Modified;
-                    var upod = _context.SaveChanges();
+                    if (resTarjet != null)
+                    {
+                        resTarjet.FamilyNumber = item.FamilyNumber;
+                        resTarjet.CardDisabled = item.CardDisabled;
+                        resTarjet.UserId = model.UserInfo[0].userID;
+                        _context.UserCardNumberGroupData.Update(resTarjet);
+                        _context.Entry(resTarjet).State = EntityState.Modified;
+                        var upod = _context.SaveChanges();
+                    }
+                    else
+                    {
+                        for (int i = 0; i < model.InfoTarjet.Count; i++)
+                        {
+                            var exi = _context.UserCardNumberGroupData.Where(s => s.UserId == model.InfoTarjet[i].UserId && s.CardNumber == model.InfoTarjet[i].CardNumber).FirstOrDefault();
+                            if (exi != null)
+                            {
+                                return false;
+                            }
+                            else
+                            {
+                                var user = _context.Users.Where(x => x.UserId == model.InfoTarjet.UserId).FirstOrDefault();
+                                if (user != null)
+                                {
+                                    if (model.InfoTarjet[i].ExpiritDate != null)
+                                    {
+                                        user.ExpiryDate = Convert.ToDateTime(model.InfoTarjet[i].ExpiritDate);
+                                    }
+                                    else
+                                    {
+                                        user.ExpiryDate = DateTime.Now;
+                                    }
+                                    if (model.InfoTarjet[i].StartDate != null)
+                                    {
+                                        user.StartDate = Convert.ToDateTime(model.InfoTarjet[i].StartDate);
+                                    }
+                                    else
+                                    {
+                                        user.StartDate = DateTime.Now;
+                                    }
+                                    _context.Users.Update(user);
+                                }
+                                foreach (var item1 in model.InfoTarjet)
+                                {
+                                    var ent = _mapper.Map<UserCardNumberGroupDatum>(item1);
+                                    _context.UserCardNumberGroupData.Add(ent);
+                                }
+                                await _context.SaveChangesAsync();
+                                return true;
+                            }
+                        }
+                    }
                 }
-                //foreach (var item in model.LevelAccess)
-                //{
-                //    var resLevels = _context.UserAccessLevelGroupData.Where(l => l.UserAccessLevel == item.UserAccessLevel && l.UserId == model.UserInfo[0].userID).FirstOrDefault();
-                //    resLevels.UserAccessLevelStart = item.UserAccessLevelStart;
-                //    resLevels.UserAccessLevelEnd = item.UserAccessLevelEnd;
-                //    _context.UserAccessLevelGroupData.Update(resLevels);
-                //    _context.Entry(resLevels).State = EntityState.Modified;
-                //    _context.SaveChanges();
-                //}
+                foreach (var item in model.LevelAccess)
+                {
+                    var resLevels = _context.UserAccessLevelGroupData.Where(l => l.UserAccessLevel == item.UserAccessLevel && l.UserId == model.UserInfo[0].userID).FirstOrDefault();
+                    resLevels.UserAccessLevelStart = Convert.ToDateTime(item.UserAccessLevelStart);
+                    resLevels.UserAccessLevelEnd = Convert.ToDateTime(item.UserAccessLevelEnd);
+                    _context.UserAccessLevelGroupData.Update(resLevels);
+                    _context.Entry(resLevels).State = EntityState.Modified;
+                    _context.SaveChanges();
+                }
                 foreach (var item in model.Dependency)
                 {
                     var resArea = _context.UserCustomFieldGroupData.Where(f => f.UserId == model.UserInfo[0].userID && f.CustomFieldId == item.Area[0].CustomFieldId).FirstOrDefault();

@@ -58,3 +58,18 @@ D:\Control de Acceso Visitantes Backend\ApiControlAcceso.INFRA\obj\Debug\netcore
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.genruntimeconfig.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.deps.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.runtimeconfig.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.runtimeconfig.dev.json
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\bin\Debug\netcoreapp3.1\ApiControlAcceso.MODELS.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.csproj.CopyComplete
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.dll
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.pdb
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.INFRA\obj\Debug\netcoreapp3.1\ApiControlAcceso.INFRA.genruntimeconfig.cache

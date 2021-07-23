@@ -678,3 +678,9 @@ D:\Control de Acceso Visitantes Backend\ApiControlAcceso.TEST\obj\Debug\net5.0\A
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.TEST\obj\Debug\net5.0\ref\ApiControlAcceso.TEST.dll
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.pdb
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.genruntimeconfig.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.csproj.AssemblyReference.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\obj\Debug\net5.0\ApiControlAcceso.TEST.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.TEST\bin\Debug\net5.0\CoverletSourceRootsMapping

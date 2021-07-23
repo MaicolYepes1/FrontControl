@@ -722,3 +722,9 @@ D:\Control de Acceso Visitantes Backend\ApiControlAcceso.APIS\obj\Debug\net5.0\A
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.APIS\obj\Debug\net5.0\ref\ApiControlAcceso.APIS.dll
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.pdb
 D:\Control de Acceso Visitantes Backend\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.genruntimeconfig.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.AssemblyInfoInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.AssemblyInfo.cs
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.csproj.CoreCompileInputs.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maico\OneDrive\Documentos\GitHub\FrontControl\ApiControlAcceso.APIS\obj\Debug\net5.0\ApiControlAcceso.APIS.csproj.AssemblyReference.cache

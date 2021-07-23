@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {}
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {}
   },
   "projects": {
-    "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
+    "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
         "projectName": "ApiControlAcceso.MODELS",
-        "projectPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
+        "projectPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

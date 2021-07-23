@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/iMDesf9pVxjDVR5WdEfwDiasOXu1zSCIr8uHvIzERG76eJAgTjUYb8S+0rK1kx/BervVE5UlEnkkh/E6uJZAA==",
+  "dgSpecHash": "q6vr+SIqO5Uxlb1k9UlpsgYBtXNDN7LEBp3U940urHPdoDZUa0+FBGbnXBVlAucR5IwInU0MgZmKOoLg2epJdg==",
   "success": true,
-  "projectFilePath": "D:\\Control de Acceso Visitantes Backend\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
+  "projectFilePath": "C:\\Users\\Maico\\OneDrive\\Documentos\\GitHub\\FrontControl\\ApiControlAcceso.MODELS\\ApiControlAcceso.MODELS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
